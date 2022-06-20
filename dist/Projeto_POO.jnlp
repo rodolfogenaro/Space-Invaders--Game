@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Projeto_POO.jnlp">
+  <information>
+    <title>Projeto_POO</title>
+    <vendor>manod</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Projeto_POO.jar" size="56911" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="projeto_poo.Projeto_POO"  name="Projeto_POO" />
+  <update check="always"/>
+</jnlp>
